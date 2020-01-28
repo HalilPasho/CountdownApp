@@ -1,0 +1,9 @@
+.status {
+  font-size: 80px !important;
+}
+.status--failed {
+  color: red;
+}
+.status--succeeded {
+  color: green;
+}

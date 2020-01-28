@@ -1,0 +1,17 @@
+.letter {
+  font-size: 80px;
+  color: green;
+}
+
+.letter--wrong {
+  border-color: red;
+  opacity: 0.5;
+}
+
+.letter--correct {
+  border-color: green;
+}
+
+.letter--dim {
+  opacity: 0.5;
+}

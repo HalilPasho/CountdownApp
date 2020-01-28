@@ -1,0 +1,15 @@
+.text {
+  color: skyblue;
+}
+
+.text--large {
+  font-size: 30px;
+}
+
+.text--normal {
+  font-size: 25px;
+}
+
+.text--small {
+  font-size: 20px;
+}
